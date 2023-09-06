@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on [container.dev](https://containers.dev) images, templates, & [CodeMan99/features](https://github.com/CodeMan99/features).
     - 📂 Want to use the devconatainer [cli](https://www.npmjs.com/package/@devcontainers/cli)? Do you still want `devcontainer open`? In this [gist](https://gist.github.com/CodeMan99/852d8539bd35a347a48d4a6119ff70e7) I implemented a solution as a bash function called `devopen`.
 - 🎉 I'm awesome at [node.js](https://nodejs.org), [GNU](https://www.gnu.org/software/software.html#allgnupkgs)/[Linux](https://ubuntu.com), & [Docker](https://www.docker.com).
+- 🤺 I'm actively partipating in [codewars.com](https://www.codewars.com/users/CodeMan99) kata challenges in 7+ different languages!
+
+[![CodeMan99's CodeWars Profile](https://www.codewars.com/users/CodeMan99/badges/large)](https://www.codewars.com/users/CodeMan99)
 
 <!---
 CodeMan99/CodeMan99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
