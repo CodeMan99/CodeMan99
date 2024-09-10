@@ -1,6 +1,14 @@
 # CodeMan99
 
-Hello! First, a quick overview about me.
+Hello! I am a co-founder of [ByteZone LLC](https://github.com/bytezonedev)!
+
+## ByteZone LLC
+
+A very new venture! Stay tuned for more details.
+
+## About Me
+
+Some highlights about me!
 
 - 👀 I’m interested in _Ice Hockey_ 🏒 _Camping_ 🏕️ _Parenting_ 👪
 - 🎮 I'm exploring game development with [Unreal Engine](https://www.unrealengine.com). Enjoying 3d modeling with [Blender](https://www.blender.org) along the way!
@@ -12,18 +20,6 @@ Hello! First, a quick overview about me.
 - 🤺 I'm actively partipating in [codewars.com](https://www.codewars.com/users/CodeMan99) kata challenges in 7+ different languages!
 
 [![CodeMan99's CodeWars Profile](https://www.codewars.com/users/CodeMan99/badges/large)](https://www.codewars.com/users/CodeMan99)
-
-## Looking for Work
-
-I am currently looking for a full time position. Preference for US based companies.
-
-### Resume
-
-My resume is available as an [OCI Artifact](https://oras.land).
-
-```shell
-oras pull ghcr.io/codeman99/resume:latest
-```
 
 ## Github Stats
 
