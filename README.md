@@ -12,7 +12,7 @@ Some highlights about me!
 
 - 👀 I’m interested in _Ice Hockey_ 🏒 _Camping_ 🏕️ _Parenting_ 👪
 - 🎮 I'm exploring game development with [Unreal Engine](https://www.unrealengine.com). Enjoying 3d modeling with [Blender](https://www.blender.org) along the way!
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org) & [Podman](https://podman.io).
+- 🌱 I’m currently learning [Laravel](https://laravel.com) & [Vue.js](https://vuejs.org).
 - 💞️ I’m looking to collaborate on [container.dev](https://containers.dev) images, templates, & [CodeMan99/features](https://github.com/CodeMan99/features).
     - 📂 Want to use the devconatainer [cli](https://www.npmjs.com/package/@devcontainers/cli)? Do you still want `devcontainer open`? In this [gist](https://gist.github.com/CodeMan99/852d8539bd35a347a48d4a6119ff70e7) I implemented a solution as a bash function called `devopen`.
     - 👔 [tyedev](https://github.com/CodeMan99/tyedev) - Improved Devcontainer Creation! An interactive CLI application written in Rust. 🦀
